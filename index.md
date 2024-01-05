@@ -7,10 +7,12 @@ let bandInfo = {
   Name: "HVOB",
   Founded: "2012",
   Genre: "Dark Electronica",
-  Best-Album: "Rocco",
+  BestAlbum: "Rocco",
 }
 
-console.log(bandInfo.Name);
+for (i = 0; i<=3; i++) {
+  console.log(`I freaking love ${bandInfo.Name}!`)
+}
 ```
 - [x] Listen to songs
 - [ ] Contemplate life
