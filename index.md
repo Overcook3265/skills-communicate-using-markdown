@@ -11,3 +11,7 @@ let bandInfo = {
 }
 
 console.log(bandInfo.Name);
+```
+- [x] Listen to songs
+- [ ] Contemplate life
+- [ ] Go to concert and gloriously damage hearing
