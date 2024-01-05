@@ -7,7 +7,7 @@ let bandInfo = {
   Name: "HVOB",
   Founded: "2012",
   Genre: "Dark Electronica",
-  Best Album: "Rocco",
+  Best-Album: "Rocco",
 }
 
 console.log(bandInfo.Name);
